@@ -4,9 +4,8 @@
 ## 🔭 Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas na Unicesumar.
-- 💼 Trabalhando como Desenvolvedor na MKSolutions.
-- 🌱 Aprendendo mais sobre NestJS + DDD
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 💼 Trabalhando como Desenvolvedor FullStack.
 
 ---
 
@@ -39,12 +38,5 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=2CA5E0)
-
-<a href="https://github.com/iuricode" title="Perfil do Vinícius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGirotto&theme=dracula&show_icons=true" />
-</a>
-
-[![Linkedin](https://img.shields.io/badge/-ViniciusCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-carvalho-b5980918b/)](https://www.linkedin.com/in/vinicius-carvalho-b5980918b/)
-[![Gmail Badge](https://img.shields.io/badge/-vinicarvalho23@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicarvalho23@gmail.com)](mailto:vinicarvalho23@gmail.com)
 
 
